@@ -1,0 +1,5 @@
+fitz
+pymupdf 
+pytesseract 
+pillow
+easyocr
